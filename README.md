@@ -1,5 +1,9 @@
 # Veyosy CS2 Config
 
+**Latest stable version: `v1.0`**
+
+[Download v1.0 ZIP](https://github.com/Veyosy/veyosy-cs2-config/archive/refs/heads/v1.0.zip) · [Download autoexec.cfg](https://raw.githubusercontent.com/Veyosy/veyosy-cs2-config/v1.0/autoexec.cfg) · [Release notes](./RELEASE_NOTES.md)
+
 Personal Counter-Strike 2 configuration by **Veyosy**.
 
 A clean `autoexec.cfg` with my binds, crosshair, viewmodel, radar, HUD, sound and gameplay settings.
@@ -75,7 +79,9 @@ When the config loads correctly, the console should show:
 
 ## Updating
 
-Replace the old `autoexec.cfg` with the newest version from this repository.
+Replace the old `autoexec.cfg` with the newest stable version from this repository.
+
+See [`CHANGELOG.md`](./CHANGELOG.md) for version history.
 
 ## Notes
 
@@ -83,4 +89,4 @@ This is **my personal setup**, not a universal "best CS2 config". Some settings 
 
 ---
 
-**Veyosy** // CS2
+**Veyosy** // CS2 // v1.0
