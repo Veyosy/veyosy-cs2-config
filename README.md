@@ -1,12 +1,11 @@
 # Veyosy CS2 Config
 
-**Latest stable version: `v1.0`**
-
-[Download v1.0 ZIP](https://github.com/Veyosy/veyosy-cs2-config/archive/refs/heads/v1.0.zip) · [Download autoexec.cfg](https://raw.githubusercontent.com/Veyosy/veyosy-cs2-config/v1.0/autoexec.cfg) · [Release notes](./RELEASE_NOTES.md)
-
 Personal Counter-Strike 2 configuration by **Veyosy**.
 
-A clean `autoexec.cfg` with my binds, crosshair, viewmodel, radar, HUD, sound and gameplay settings.
+## Download
+
+- [Download `autoexec.cfg`](https://raw.githubusercontent.com/Veyosy/veyosy-cs2-config/main/autoexec.cfg)
+- [Download repository as ZIP](https://github.com/Veyosy/veyosy-cs2-config/archive/refs/heads/main.zip)
 
 ## Main settings
 
@@ -54,39 +53,28 @@ A clean `autoexec.cfg` with my binds, crosshair, viewmodel, radar, HUD, sound an
 1. Download `autoexec.cfg`.
 2. Put it into:
 
-   ```text
-   ...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\
-   ```
+```text
+...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\
+```
 
-3. Start CS2.
-4. Open the developer console and run:
+3. Start CS2 and run in the developer console:
 
-   ```text
-   exec autoexec
-   ```
+```text
+exec autoexec
+```
 
-If you prefer, add this to CS2 launch options in Steam:
+Or add this to Steam launch options:
 
 ```text
 +exec autoexec.cfg
 ```
 
-When the config loads correctly, the console should show:
+When the config loads correctly, the console shows:
 
 ```text
 [AUTOEXEC] Veyosy config LOADED
 ```
 
-## Updating
-
-Replace the old `autoexec.cfg` with the newest stable version from this repository.
-
-See [`CHANGELOG.md`](./CHANGELOG.md) for version history.
-
-## Notes
-
-This is **my personal setup**, not a universal "best CS2 config". Some settings and binds are preference-based, so feel free to change them.
-
 ---
 
-**Veyosy** // CS2 // v1.0
+**Veyosy** // CS2
