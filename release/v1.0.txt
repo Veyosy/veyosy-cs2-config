@@ -1,2 +1,0 @@
-Veyosy CS2 Config v1.0
-Initial public release.
